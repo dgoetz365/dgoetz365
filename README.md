@@ -1,55 +1,33 @@
-# Hi, I’m Dan Goetz.
+# Dan Goetz
 
-I’m an **Applied AI Engineer at the New York Mets**. I build internal applications, AI assistants, and automations around the way teams work, and help people adopt them through testing, training, documentation, and rollout support.
+**Applied AI engineering · Technical leadership · AI enablement**
 
-[Website](https://dangoetz.me) · [Work examples](https://dangoetz.me/work) · [Résumé](https://dangoetz.me/resume) · [LinkedIn](https://www.linkedin.com/in/danielpaulgoetz99)
+I build internal applications, AI assistants, and integrations at the **New York Mets**, and help teams adopt them through testing, workshops, and coaching. Previously, I worked in SAP technology consulting at EY.
 
-## Software you can run
+[Website](https://dangoetz.me) · [Work notes](WORK.md) · [Résumé](https://dangoetz.me/resume) · [LinkedIn](https://www.linkedin.com/in/danielpaulgoetz99) · [Email](mailto:dgoetz365@gmail.com)
 
-These independent projects make my engineering approach inspectable: working applications, explicit tradeoffs, failure handling, and tests. Each was built for this public portfolio with fictional scenarios and synthetic data. They demonstrate general patterns from my work; they are not releases or replicas of employer systems.
+## Featured projects
 
-| Repository | What it does | What to inspect |
-| --- | --- | --- |
-| [**publication-workbench**](https://github.com/dgoetz365/publication-workbench) | An editorial workspace with draft revisions, review, published editions, precise search, and HTML export. | Preserving approved content while editors keep working; a public example related to my media-guide work. |
-| [**community-events-hub**](https://github.com/dgoetz365/community-events-hub) | Connected participant profiles, appearances, event schedules, and logistics. | Capacity, overlapping commitments, safe rescheduling, and record history; related to alumni/event operations. |
-| [**staffing-scheduler**](https://github.com/dgoetz365/staffing-scheduler) | Volunteer scheduling with availability, role eligibility, published snapshots, and reviewed changes. | Validating assignments and keeping draft changes separate from the published schedule. |
-| [**copilot-studio-workbench**](https://github.com/dgoetz365/copilot-studio-workbench) | Original topic definitions, a connector contract, and a runnable synthetic API. | Evidence, ambiguity, conversation routing, and human review. Tenant import/runtime remain unverified. |
-
-The local software uses Python's standard library and runs without paid services. The Copilot Studio configuration examples require separate setup and validation in a test environment.
-
-For deeper implementation examples, explore [data-sync-workbench](https://github.com/dgoetz365/data-sync-workbench), [service-desk-assistant](https://github.com/dgoetz365/service-desk-assistant), and [workflow-desk](https://github.com/dgoetz365/workflow-desk). The [AI workshop kit](https://github.com/dgoetz365/ai-workshop-kit) shows how I support adoption through facilitation, exercises, and coaching.
-
-## Selected engineering work
-
-I turn operational workflows into applications people can use, review, and maintain. Recent contributions include:
-
-| Area | What I worked on |
+| Project | What you can explore |
 | --- | --- |
-| [**Media guide and editorial tools**](case-studies/media-guide.md) | Structured content, draft review, edition continuity, and clear access to supporting information. |
-| [**Alumni and event operations**](case-studies/alumni-operations.md) | Connected participant profiles, appearances, logistics, and continued product development that preserves existing work. |
-| [**Staff scheduling**](case-studies/staff-scheduling.md) | Availability, assignments, shift changes, and schedule visibility, with clear approval states and role-appropriate views. |
-| [**Copilot Studio and AI assistants**](case-studies/copilot-studio.md) | Task boundaries, topic routing, grounded responses, tool connections, and human review. |
-| **Recruiting workflows** | Searchable profiles, applications, and team notes, including profile merging that preserves applications and saved documents. |
-| **Dependable integrations** | Reviewable imports, duplicate handling, protection for staff edits, and refresh behavior that keeps saved information available during source outages. |
+| [**Publication Workbench**](https://github.com/dgoetz365/publication-workbench) | Draft review, immutable editions, precise search, and HTML export. |
+| [**Community Events Hub**](https://github.com/dgoetz365/community-events-hub) | Connected profiles, appearances, logistics, and scheduling conflicts. |
+| [**Staffing Scheduler**](https://github.com/dgoetz365/staffing-scheduler) | Availability and role checks, published schedules, and reviewed changes. |
+| [**Copilot Studio Workbench**](https://github.com/dgoetz365/copilot-studio-workbench) | Original topics, a connector contract, and a runnable lookup API. Tenant setup remains unverified. |
 
-[Read the work notes](WORK.md) for more about these contributions. These summaries describe my work on internal products; employer source code, data, and internal links remain private.
+These are independent portfolio examples with original code and fictional data. The local software runs with Python's standard library; Copilot Studio integration requires separate setup. Employer systems and records remain private.
 
-## Public prototype
+## More to explore
 
-| Project | What to explore | Link |
-| --- | --- | --- |
-| **AP SmartBot** | An interactive accounts payable assistant prototype, with invoice status and payment details. | [Open prototype](https://ap-smartbot-demo-dan-goetz.danielgoetz301.chatgpt.site) |
+- [**Service Desk Assistant**](https://github.com/dgoetz365/service-desk-assistant) — source evidence, bounded tools, and an optional local-model adapter.
+- [**Data Sync Workbench**](https://github.com/dgoetz365/data-sync-workbench) — reviewable imports that preserve local edits.
+- [**Workflow Desk**](https://github.com/dgoetz365/workflow-desk) — approvals, inventory constraints, and safe retries.
+- [**AI Workshop Kit**](https://github.com/dgoetz365/ai-workshop-kit) — a complete session with exercises, facilitator notes, and a review rubric.
 
-## How I work
+## Work and approach
 
-- **Internal products:** translate team workflows into requirements, application features, and user testing.
-- **AI assistants and automation:** define useful tasks, build or configure the experience, and document its limitations.
-- **Technical leadership:** connect business needs to engineering choices, explain tradeoffs, and support teammates through implementation and handoff.
-- **Adoption and enablement:** turn a first demo into workshops, coaching, onboarding, practical guides, and ongoing support.
+My work spans media-guide publishing, alumni and event operations, staff scheduling, recruiting, integrations, and Copilot Studio assistants. I connect operational needs to engineering decisions, explain tradeoffs, and support implementation, handoff, and adoption.
 
-My background includes business systems and integrations at the Mets and SAP technology consulting at EY. [Read the work summaries](https://dangoetz.me/work).
+[Read the contribution summaries and case studies →](WORK.md)
 
-
-## Connect
-
-I’m interested in applied AI, useful internal products, and technology in sports. [Get in touch](mailto:dgoetz365@gmail.com).
+You can also explore [AP SmartBot](https://ap-smartbot-demo-dan-goetz.danielgoetz301.chatgpt.site), an interactive accounts-payable assistant prototype.
