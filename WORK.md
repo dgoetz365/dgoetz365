@@ -1,30 +1,43 @@
-# Selected work
+# How I approach the work
 
-I build applications around planning, reviewing, and keeping information current. These notes describe contributions to internal products at a high level. The linked public demos use original code and fictional scenarios.
+Building useful technology includes understanding the problem, testing the result, and helping people use it. This page describes my general approach. The linked experiments are independent examples with fictional scenarios.
 
-## Case studies
+## AI engineering
 
-| Area | Contribution summary | Independent example |
-| --- | --- | --- |
-| Media guide and editorial tools | [Structured content, draft review, and edition continuity](case-studies/media-guide.md) | [Publication Workbench](https://github.com/dgoetz365/publication-workbench) |
-| Alumni and event operations | [Connected profiles, appearances, and logistics](case-studies/alumni-operations.md) | [Community Events Hub](https://github.com/dgoetz365/community-events-hub) |
-| Staff scheduling | [Availability, assignments, approvals, and published schedules](case-studies/staff-scheduling.md) | [Staffing Scheduler](https://github.com/dgoetz365/staffing-scheduler) |
-| Copilot Studio and AI assistants | [Topic routing, grounding, tool connections, and human review](case-studies/copilot-studio.md) | [Copilot Studio Workbench](https://github.com/dgoetz365/copilot-studio-workbench) |
+Start with a task and a clear definition of a useful result. Check the evidence behind an answer, test ambiguous and missing information, and make the limits visible.
 
-## Recruiting and integrations
+[Explore Service Desk Assistant](https://github.com/dgoetz365/service-desk-assistant) · [Explore Copilot Studio Workbench](https://github.com/dgoetz365/copilot-studio-workbench)
 
-I contributed to a recruiting workspace connecting searchable profiles, applications, team notes, and saved documents. I also improved duplicate-profile merging so existing applications and documents stay attached to the resulting profile.
+## Product development
 
-My integration work includes draft imports, duplicate review, safeguards for staff edits, refresh behavior that preserves saved results during source outages, and migration checks for existing records and files.
+Make the important actions and states understandable. Build a small version, try it from the user's perspective, and use feedback to decide what to improve.
 
-Explore these general engineering patterns in [Data Sync Workbench](https://github.com/dgoetz365/data-sync-workbench) and [Workflow Desk](https://github.com/dgoetz365/workflow-desk).
+[Explore Publication Workbench](https://github.com/dgoetz365/publication-workbench) · [Explore Community Events Hub](https://github.com/dgoetz365/community-events-hub) · [Explore Staffing Scheduler](https://github.com/dgoetz365/staffing-scheduler)
 
-## Technical leadership and AI enablement
+## Data and automation
 
-I translate operational needs into requirements, explain implementation tradeoffs, and help teammates through testing, documentation, and handoff. I also co-present workshops, coach colleagues, and create practical learning and evaluation materials.
+Be clear about where information comes from, what can change, and how to recover when something fails. Make proposed changes reviewable before applying them.
 
-[Service Desk Assistant](https://github.com/dgoetz365/service-desk-assistant) demonstrates tool execution, evidence, and review boundaries. [AI Workshop Kit](https://github.com/dgoetz365/ai-workshop-kit) provides an original session for task selection, workflow design, and evaluation.
+[Explore Data Sync Workbench](https://github.com/dgoetz365/data-sync-workbench) · [Explore Workflow Desk](https://github.com/dgoetz365/workflow-desk)
 
-These are contribution summaries, not claims of sole authorship. No employer source code, internal links, screenshots, or operational records are reproduced. Public demo tests establish the examples' behavior, not the current runtime state of internal systems.
+## Teaching and adoption
 
-[Back to profile](README.md) · [Website work page](https://dangoetz.me/work)
+Use familiar language and practical exercises. Give people something they can try, show how to judge the result, and leave them with material they can return to.
+
+[Explore AI Workshop Kit](https://github.com/dgoetz365/ai-workshop-kit)
+
+## Mentoring
+
+Break a large problem into a manageable next step. Ask questions, explain the reasoning, and help someone test their own ideas while keeping ownership of their work.
+
+## Technical advising
+
+Clarify the goal before choosing a tool. Explain tradeoffs, distinguish a working demonstration from a dependable implementation, and document what still needs testing.
+
+## Personal exploration
+
+Games are another way to experiment with interaction, feedback, and product decisions.
+
+[Explore Final Possession](https://github.com/dgoetz365/final-possession)
+
+[Back to profile](README.md) · [Website](https://dangoetz.me)
