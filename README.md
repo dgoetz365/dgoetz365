@@ -4,13 +4,26 @@ I’m an **Applied AI Engineer at the New York Mets**. I build internal applicat
 
 [Website](https://dangoetz.me) · [Work examples](https://dangoetz.me/work) · [Résumé](https://dangoetz.me/resume) · [LinkedIn](https://www.linkedin.com/in/danielpaulgoetz99)
 
-## Work example
+## Selected engineering work
+
+I turn operational workflows into applications people can use, review, and maintain. Recent contributions include:
+
+| Area | What I worked on |
+| --- | --- |
+| **Staff scheduling** | Availability, assignments, shift changes, and schedule visibility, with clear approval states and role-appropriate views. |
+| **Recruiting workflows** | Searchable profiles, applications, and team notes, including profile merging that preserves applications and saved documents. |
+| **Event coordination** | A planning workspace connecting participant profiles, appearance schedules, and logistics tracking. |
+| **Dependable integrations** | Reviewable imports, duplicate handling, protection for staff edits, and refresh behavior that keeps saved information available during source outages. |
+
+[Read the work notes](WORK.md) for more about these contributions. These summaries describe my work on internal products; employer source code, data, and internal links remain private.
+
+## Public prototype
 
 | Project | What to explore | Link |
 | --- | --- | --- |
 | **AP SmartBot** | An interactive accounts payable assistant prototype, with invoice status and payment details. | [Open prototype](https://ap-smartbot-demo-dan-goetz.danielgoetz301.chatgpt.site) |
 
-## My work
+## How I work
 
 - **Internal products:** translate team workflows into requirements, application features, and user testing.
 - **AI assistants and automation:** define useful tasks, build or configure the experience, and document its limitations.
