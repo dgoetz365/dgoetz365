@@ -1,10 +1,12 @@
 # Dan Goetz
 
-**Applications · AI evaluation · Teaching and mentoring**
+**Applied AI Engineer at the New York Mets**
 
-I build internal applications, AI assistants, and integrations at the **New York Mets**, and help teams adopt them through testing, workshops, and coaching. Previously, I worked in SAP technology consulting at EY.
+I build staff scheduling applications, alumni and event tools, recruiting workflows, and employee assistants. I also test AI behavior, lead and co-lead training in Copilot, Claude, and ChatGPT, and mentor colleagues and interns as they build.
 
-[Website](https://dangoetz.me) · [Work case studies](https://dangoetz.me/work) · [Public project notes](WORK.md) · [Résumé](https://dangoetz.me/resume) · [LinkedIn](https://www.linkedin.com/in/danielpaulgoetz99) · [Email](mailto:dgoetz365@gmail.com)
+Previously: SAP technology consulting at EY.
+
+[Website](https://dangoetz.me) · [Work case studies](https://dangoetz.me/work) · [Project notes](https://github.com/dgoetz365/dgoetz365/blob/main/WORK.md) · [Résumé](https://dangoetz.me/resume) · [LinkedIn](https://www.linkedin.com/in/danielpaulgoetz99) · [Email](mailto:dgoetz365@gmail.com)
 
 ## Featured projects
 
@@ -28,4 +30,5 @@ These are independent portfolio examples with original code and fictional data. 
 
 My work spans media-guide publishing, alumni and event operations, staff scheduling, recruiting, integrations, and Copilot Studio assistants. I connect operational needs to engineering decisions, explain tradeoffs, and support implementation, handoff, and adoption.
 
-[Read the contribution summaries and case studies →](WORK.md)
+[Read the contribution summaries and case studies →](https://github.com/dgoetz365/dgoetz365/blob/main/WORK.md)
+
