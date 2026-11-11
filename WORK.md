@@ -2,6 +2,8 @@
 
 I build applications around the everyday work of planning, reviewing, and keeping information current. These are high-level summaries of contributions to internal products, with company-specific details omitted.
 
+Explore the individual case studies: [Media guide and editorial tools](case-studies/media-guide.md), [Alumni and event operations](case-studies/alumni-operations.md), [Staff scheduling](case-studies/staff-scheduling.md), and [Copilot Studio](case-studies/copilot-studio.md). Each connects the actual work to a clearly labeled independent public example.
+
 ## Staff scheduling
 
 Scheduling involves more than assigning a shift. Availability, change requests, approvals, and the published schedule need to stay connected.
@@ -33,6 +35,21 @@ An import should be something people can review and trust. A refresh should also
 My contributions include draft imports, duplicate review, safeguards that preserve staff edits, and refresh behavior that keeps saved results available during source outages. I also worked on migration checks that verify existing records and files.
 
 The engineering focus is protecting work already done while making incoming changes easier to inspect.
+
+## AI assistants and enablement
+
+My work includes configuring assistants around defined tasks, connecting them to relevant information and tools, and making the limits of their answers clear. Testing and human review matter alongside the conversation itself.
+
+I also co-present workshops, coach colleagues, and create practical learning and evaluation materials. This is part of delivering usable technology: helping people choose an appropriate task, understand the result, and know when to ask for help.
+
+## Explore the engineering in public
+
+The following are newly built, independent examples using fictional settings and data. They illustrate engineering decisions, not the actual source or full scope of the internal products described above.
+
+- [Workflow Desk](https://github.com/dgoetz365/workflow-desk): inspect a complete request-to-return workflow, inventory constraints, history, and conflict handling.
+- [Service Desk Assistant](https://github.com/dgoetz365/service-desk-assistant): inspect tool execution, evidence, missing information, and the boundary between facts and a generated draft.
+- [Data Sync Workbench](https://github.com/dgoetz365/data-sync-workbench): inspect a staged import, protected local fields, and recovery after a failed transaction.
+- [AI Workshop Kit](https://github.com/dgoetz365/ai-workshop-kit): run an original workshop that connects task selection, workflow design, and evaluation.
 
 ---
 
